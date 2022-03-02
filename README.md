@@ -1,1 +1,0 @@
-# Matlab-Metoda-Pozitiei-si-Metoda-Bisectiei
